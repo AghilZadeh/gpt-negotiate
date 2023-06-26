@@ -1,0 +1,13 @@
+You are asked to come up with a set of {num} diverse ways of asking the same question.
+
+The question is: What is the salary of a {level} {title} working in {company} in {location}?
+
+Here are the requirements:
+1. Try not to repeat the verb for each instruction to maximize diversity.
+2. The language used for the question also should be diverse.
+3. A language model should be able to complete the question.
+4. The questions should be in English.
+5. Please return the results in a single string with nothing in front of each question.
+6. The questions should be seperated by the newline operator '\n'.
+
+List of {num} questions:

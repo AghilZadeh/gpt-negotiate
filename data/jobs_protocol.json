@@ -1,0 +1,7190 @@
+[
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "NY",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "TX",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "UT",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 4"
+    },
+    {
+        "Location": "TX",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 4"
+    },
+    {
+        "Location": "UT",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "adobe",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 5"
+    },
+    {
+        "Location": "CA",
+        "Company": "affirm",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "airbnb",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "IL",
+        "Company": "akuna capital",
+        "Title": "Software Engineer",
+        "Level": "Junior"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "4"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "5"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "AZ",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CO",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MN",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NJ",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "TX",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "VA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "AZ",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CO",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MI",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MN",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "NJ",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "OR",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TN",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "VA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L6"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CO",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "TX",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "VA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Data Scientist",
+        "Level": "L7"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "Principal SDE"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "CO",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "TX",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "VA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "AZ",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "CO",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "TX",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "VA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE III"
+    },
+    {
+        "Location": "MA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE III"
+    },
+    {
+        "Location": "NY",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE III"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "SDE III"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "Senior SDE"
+    },
+    {
+        "Location": "WA",
+        "Company": "amazon",
+        "Title": "Software Engineer",
+        "Level": "l5"
+    },
+    {
+        "Location": "CA",
+        "Company": "amd",
+        "Title": "Software Engineer",
+        "Level": "MTS"
+    },
+    {
+        "Location": "MA",
+        "Company": "amd",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "TX",
+        "Company": "american airlines",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "american express",
+        "Title": "Software Engineer",
+        "Level": "Engineer II"
+    },
+    {
+        "Location": "NY",
+        "Company": "american express",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "anaplan",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "ancestry",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "anduril industries",
+        "Title": "Software Engineer",
+        "Level": "New Grad"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT2"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT2"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Data Scientist",
+        "Level": "ICT3"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT3"
+    },
+    {
+        "Location": "NY",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT3"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT3"
+    },
+    {
+        "Location": "WA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT3"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Data Scientist",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Data Scientist",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "NY",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "WA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT4"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Data Scientist",
+        "Level": "ICT5"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT5"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT5"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "ICT6"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "TX",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "apple",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "argo ai",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "argo ai",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "PA",
+        "Company": "argo ai",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "asana",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "asana",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "asana",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "at&t",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "atlassian",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "atlassian",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "TX",
+        "Company": "atlassian",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "atlassian",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "TX",
+        "Company": "atlassian",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "MA",
+        "Company": "audible",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NJ",
+        "Company": "audible",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NJ",
+        "Company": "audible",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "PA",
+        "Company": "aurora",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "autodesk",
+        "Title": "Software Engineer",
+        "Level": "Grade 11"
+    },
+    {
+        "Location": "CA",
+        "Company": "autodesk",
+        "Title": "Software Engineer",
+        "Level": "Grade 12"
+    },
+    {
+        "Location": "CA",
+        "Company": "autodesk",
+        "Title": "Software Engineer",
+        "Level": "Grade 13"
+    },
+    {
+        "Location": "CA",
+        "Company": "autodesk",
+        "Title": "Software Engineer",
+        "Level": "Grade 14"
+    },
+    {
+        "Location": "CA",
+        "Company": "autodesk",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "OR",
+        "Company": "automattic",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "NY",
+        "Company": "bank of america",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "NJ",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NJ",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "Assistant Vice-President"
+    },
+    {
+        "Location": "NY",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "Assistant Vice-President"
+    },
+    {
+        "Location": "NJ",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "BA4"
+    },
+    {
+        "Location": "NY",
+        "Company": "barclays",
+        "Title": "Software Engineer",
+        "Level": "BA4"
+    },
+    {
+        "Location": "CA",
+        "Company": "benchling",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "NY",
+        "Company": "better mortgage",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "GA",
+        "Company": "blackrock",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "blackrock",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "blackrock",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "CA",
+        "Company": "blackrock",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "CA",
+        "Company": "blend",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "blizzard entertainment",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer I"
+    },
+    {
+        "Location": "CA",
+        "Company": "blizzard entertainment",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NJ",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NJ",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "bloomberg lp",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "bluecore",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "bny mellon",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "bny mellon",
+        "Title": "Software Engineer",
+        "Level": "New Grad"
+    },
+    {
+        "Location": "VA",
+        "Company": "booz allen hamilton",
+        "Title": "Software Engineer",
+        "Level": "Senior Consultant"
+    },
+    {
+        "Location": "CA",
+        "Company": "box",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "box",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "box",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "box",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "broadcom",
+        "Title": "Software Engineer",
+        "Level": "ICB 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "broadcom",
+        "Title": "Software Engineer",
+        "Level": "ICB 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "broadcom",
+        "Title": "Software Engineer",
+        "Level": "ICB 5"
+    },
+    {
+        "Location": "CA",
+        "Company": "bytedance",
+        "Title": "Software Engineer",
+        "Level": "1-2"
+    },
+    {
+        "Location": "CA",
+        "Company": "bytedance",
+        "Title": "Software Engineer",
+        "Level": "2-1"
+    },
+    {
+        "Location": "CA",
+        "Company": "bytedance",
+        "Title": "Software Engineer",
+        "Level": "2-2"
+    },
+    {
+        "Location": "CA",
+        "Company": "bytedance",
+        "Title": "Software Engineer",
+        "Level": "3-1"
+    },
+    {
+        "Location": "CA",
+        "Company": "cadence",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "CA",
+        "Company": "cadence",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "CA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Eng"
+    },
+    {
+        "Location": "IL",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Eng"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Eng"
+    },
+    {
+        "Location": "TX",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Lead Software Eng"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Master Software Eng"
+    },
+    {
+        "Location": "TX",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Master Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Master Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Data Scientist",
+        "Level": "Principal Associate"
+    },
+    {
+        "Location": "CA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Principal Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Principal Associate"
+    },
+    {
+        "Location": "TX",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Principal Associate"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Principal Associate"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Data Scientist",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "CA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "IL",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "TX",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Manager"
+    },
+    {
+        "Location": "CA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Eng"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Eng"
+    },
+    {
+        "Location": "CA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Software Eng"
+    },
+    {
+        "Location": "NY",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Software Eng"
+    },
+    {
+        "Location": "VA",
+        "Company": "capital one",
+        "Title": "Software Engineer",
+        "Level": "Software Eng"
+    },
+    {
+        "Location": "MO",
+        "Company": "cerner",
+        "Title": "Software Engineer",
+        "Level": "Associate Lead Software Engineer"
+    },
+    {
+        "Location": "MO",
+        "Company": "cerner",
+        "Title": "Software Engineer",
+        "Level": "Associate Senior Software Engineer"
+    },
+    {
+        "Location": "MO",
+        "Company": "cerner",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "MO",
+        "Company": "cerner",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "charles schwab",
+        "Title": "Software Engineer",
+        "Level": "58"
+    },
+    {
+        "Location": "TX",
+        "Company": "chevron",
+        "Title": "Software Engineer",
+        "Level": "PSG 20"
+    },
+    {
+        "Location": "MA",
+        "Company": "chewy",
+        "Title": "Software Engineer",
+        "Level": "SDE1"
+    },
+    {
+        "Location": "CA",
+        "Company": "chime",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "chime",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MA",
+        "Company": "cimpress",
+        "Title": "Software Engineer",
+        "Level": "PR3"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "10"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Distinguished Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "G10"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "G11"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "G6"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 10"
+    },
+    {
+        "Location": "NC",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 10"
+    },
+    {
+        "Location": "TX",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 10"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 11"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 12"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 13"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 6"
+    },
+    {
+        "Location": "TX",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 6"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Data Scientist",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "NC",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "TX",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer III"
+    },
+    {
+        "Location": "WA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer III"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer IV"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Technical Leader 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "cisco",
+        "Title": "Software Engineer",
+        "Level": "Technical Leader 2"
+    },
+    {
+        "Location": "NY",
+        "Company": "citadel",
+        "Title": "Software Engineer",
+        "Level": "NXT"
+    },
+    {
+        "Location": "TX",
+        "Company": "citibank",
+        "Title": "Software Engineer",
+        "Level": "C11"
+    },
+    {
+        "Location": "TX",
+        "Company": "citibank",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "CA",
+        "Company": "citrix systems inc",
+        "Title": "Software Engineer",
+        "Level": "Principal Software Engineer"
+    },
+    {
+        "Location": "FL",
+        "Company": "citrix systems inc",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer I"
+    },
+    {
+        "Location": "FL",
+        "Company": "citrix systems inc",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer II"
+    },
+    {
+        "Location": "FL",
+        "Company": "citrix systems inc",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "cloudera",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "cloudera",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "cloudera",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "coinbase",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "coinbase",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "coinbase",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "coinbase",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "PA",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Engineer 1"
+    },
+    {
+        "Location": "PA",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Engineer 2"
+    },
+    {
+        "Location": "CO",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Engineer 3"
+    },
+    {
+        "Location": "PA",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Engineer 3"
+    },
+    {
+        "Location": "PA",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "PA",
+        "Company": "comcast",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "compass",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "NY",
+        "Company": "compass",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "WA",
+        "Company": "compass",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "WA",
+        "Company": "compass",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "confluent",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "convoy",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "WA",
+        "Company": "convoy",
+        "Title": "Software Engineer",
+        "Level": "T5"
+    },
+    {
+        "Location": "WA",
+        "Company": "convoy",
+        "Title": "Software Engineer",
+        "Level": "T6"
+    },
+    {
+        "Location": "WA",
+        "Company": "coupang",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "coupang",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "WA",
+        "Company": "coupang",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "credit karma",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "cruise",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "cruise",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "cruise",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "cruise",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "cruise",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "databricks",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "databricks",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "TX",
+        "Company": "dell",
+        "Title": "Software Engineer",
+        "Level": "L8"
+    },
+    {
+        "Location": "TX",
+        "Company": "dell",
+        "Title": "Software Engineer",
+        "Level": "L9"
+    },
+    {
+        "Location": "TX",
+        "Company": "dell",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "dell",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "dell",
+        "Title": "Software Engineer",
+        "Level": "Senior Principal Engineer"
+    },
+    {
+        "Location": "FL",
+        "Company": "deloitte",
+        "Title": "Software Engineer",
+        "Level": "Consultant"
+    },
+    {
+        "Location": "CA",
+        "Company": "discord",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "disney",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "disney",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "disney",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "disney",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "disney",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "docusign",
+        "Title": "Software Engineer",
+        "Level": "P1"
+    },
+    {
+        "Location": "WA",
+        "Company": "docusign",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "docusign",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "WA",
+        "Company": "docusign",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "WA",
+        "Company": "docusign",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "CA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "CA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "NY",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "NY",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "WA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "CA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "E6"
+    },
+    {
+        "Location": "CA",
+        "Company": "doordash",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MA",
+        "Company": "draftkings",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "WA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "WA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "WA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "dropbox",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "MTS 1"
+    },
+    {
+        "Location": "TX",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "MTS 1"
+    },
+    {
+        "Location": "WA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "MTS 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "MTS 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "MTS2"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "SE 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "SE 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "SE 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "SE3"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "ebay",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "electronic arts",
+        "Title": "Software Engineer",
+        "Level": "SE 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "epam systems",
+        "Title": "Software Engineer",
+        "Level": "D4"
+    },
+    {
+        "Location": "CA",
+        "Company": "epam systems",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "epam systems",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "1"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "Entry"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Systems Developer"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "Software Developer"
+    },
+    {
+        "Location": "WI",
+        "Company": "epic systems",
+        "Title": "Software Engineer",
+        "Level": "Software Developer II"
+    },
+    {
+        "Location": "NY",
+        "Company": "etsy",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "NY",
+        "Company": "etsy",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "NY",
+        "Company": "etsy",
+        "Title": "Software Engineer",
+        "Level": "IC3-1"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "K"
+    },
+    {
+        "Location": "TX",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "L"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "L"
+    },
+    {
+        "Location": "IL",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "M"
+    },
+    {
+        "Location": "TX",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "M"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "M"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "Principal SDE"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "SDE"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "SDE I"
+    },
+    {
+        "Location": "IL",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "TX",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "WA",
+        "Company": "expedia",
+        "Title": "Software Engineer",
+        "Level": "Senior SDE"
+    },
+    {
+        "Location": "CA",
+        "Company": "f5 networks",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "5"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "MA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "TX",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "MA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "MA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "TX",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E6"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E6"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E6"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E7"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "E7"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC4"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC4"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC5"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC5"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "IC6"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "NY",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "facebook",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "flexe",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "flexport",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "IL",
+        "Company": "flexport",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "flexport",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "ge",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "ge",
+        "Title": "Software Engineer",
+        "Level": "Staff SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "genentech",
+        "Title": "Data Scientist",
+        "Level": "E4"
+    },
+    {
+        "Location": "AZ",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "5A"
+    },
+    {
+        "Location": "MI",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "5A"
+    },
+    {
+        "Location": "TX",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "5A"
+    },
+    {
+        "Location": "AZ",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "GA",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MI",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "general motors",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "github",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "TX",
+        "Company": "github",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "glassdoor",
+        "Title": "Software Engineer",
+        "Level": "Lead Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "glassdoor",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "AZ",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 2"
+    },
+    {
+        "Location": "WA",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 2"
+    },
+    {
+        "Location": "AZ",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "SDE 4"
+    },
+    {
+        "Location": "WA",
+        "Company": "godaddy",
+        "Title": "Software Engineer",
+        "Level": "Software Development Engineer (SDE) 1"
+    },
+    {
+        "Location": "NJ",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "TX",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "UT",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NJ",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "TX",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "UT",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Executive Director / Vice-President"
+    },
+    {
+        "Location": "NY",
+        "Company": "goldman sachs",
+        "Title": "Data Scientist",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "NJ",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "NY",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "TX",
+        "Company": "goldman sachs",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "3"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "4"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "5"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CO",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "IL",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "MA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NC",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "PA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "TX",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CO",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "IL",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "PA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "TX",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Data Scientist",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CO",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "NY",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "NY",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "NY",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "L8"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "SWE III"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "Staff SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "WA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T5"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "T6"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "l3"
+    },
+    {
+        "Location": "CA",
+        "Company": "google",
+        "Title": "Software Engineer",
+        "Level": "l4"
+    },
+    {
+        "Location": "CA",
+        "Company": "groupon",
+        "Title": "Software Engineer",
+        "Level": "SDE 2"
+    },
+    {
+        "Location": "IL",
+        "Company": "groupon",
+        "Title": "Software Engineer",
+        "Level": "SDE 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "groupon",
+        "Title": "Software Engineer",
+        "Level": "SDE 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "groupon",
+        "Title": "Software Engineer",
+        "Level": "SDE 3"
+    },
+    {
+        "Location": "NY",
+        "Company": "grubhub",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "gusto",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "houzz",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "hpe",
+        "Title": "Software Engineer",
+        "Level": "Specialist"
+    },
+    {
+        "Location": "MA",
+        "Company": "hubspot",
+        "Title": "Software Engineer",
+        "Level": "Entry"
+    },
+    {
+        "Location": "MA",
+        "Company": "hubspot",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "MA",
+        "Company": "hubspot",
+        "Title": "Software Engineer",
+        "Level": "Senior I"
+    },
+    {
+        "Location": "NY",
+        "Company": "hudson river trading",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "hulu",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "hulu",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "6"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "6"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "6"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Data Scientist",
+        "Level": "7"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "7"
+    },
+    {
+        "Location": "MA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "7"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "7"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "7"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "8"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "8"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "8"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "9"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "9"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Associate Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "MA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "MN",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 6"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Data Scientist",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "MA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 7"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 8"
+    },
+    {
+        "Location": "MA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 8"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 8"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 8"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 8"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 9"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 9"
+    },
+    {
+        "Location": "NY",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 9"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Band 9"
+    },
+    {
+        "Location": "NC",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "MA",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "ibm",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "NJ",
+        "Company": "icims",
+        "Title": "Software Engineer",
+        "Level": "2"
+    },
+    {
+        "Location": "NY",
+        "Company": "iheartradio",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "TX",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "WA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "TX",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "WA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "TX",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "TX",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "SWE 1"
+    },
+    {
+        "Location": "WA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "SWE 2"
+    },
+    {
+        "Location": "TX",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "SWE 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "indeed",
+        "Title": "Software Engineer",
+        "Level": "SWE 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "informatica",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "TX",
+        "Company": "infosys",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "instacart",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "instacart",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "instacart",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "instacart",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "instacart",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "7"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "8"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "8"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 5"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 5"
+    },
+    {
+        "Location": "AZ",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 6"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 6"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 6"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Data Scientist",
+        "Level": "Grade 7"
+    },
+    {
+        "Location": "AZ",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 7"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 7"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 7"
+    },
+    {
+        "Location": "TX",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 7"
+    },
+    {
+        "Location": "AZ",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "OR",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 8"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "Grade 9"
+    },
+    {
+        "Location": "CA",
+        "Company": "intel",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "2"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Principal / Architect"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Data Scientist",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Data Scientist",
+        "Level": "Senior Data Scientist"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "intuit",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "jane street",
+        "Title": "Software Engineer",
+        "Level": "New Grad"
+    },
+    {
+        "Location": "IL",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "502"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "502"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "502"
+    },
+    {
+        "Location": "DE",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "601"
+    },
+    {
+        "Location": "NJ",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "601"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "601"
+    },
+    {
+        "Location": "OH",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "601"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "601"
+    },
+    {
+        "Location": "DE",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "602"
+    },
+    {
+        "Location": "NJ",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "602"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "602"
+    },
+    {
+        "Location": "OH",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "602"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "602"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "603"
+    },
+    {
+        "Location": "OH",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "603"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "603"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Data Scientist",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "CA",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "DE",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "IL",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "OH",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "CA",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "IL",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NJ",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Data Scientist",
+        "Level": "Senior Associate"
+    },
+    {
+        "Location": "NJ",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "NY",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "TX",
+        "Company": "jp morgan",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "CA",
+        "Company": "juniper networks",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "juniper networks",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Data Scientist",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Data Scientist",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Senior Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Staff"
+    },
+    {
+        "Location": "CA",
+        "Company": "linkedin",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "FL",
+        "Company": "lockheed martin",
+        "Title": "Software Engineer",
+        "Level": "E2"
+    },
+    {
+        "Location": "CO",
+        "Company": "lockheed martin",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Data Scientist",
+        "Level": "T4"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "WA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Data Scientist",
+        "Level": "T5"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T5"
+    },
+    {
+        "Location": "NY",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T5"
+    },
+    {
+        "Location": "WA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T5"
+    },
+    {
+        "Location": "CA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T6"
+    },
+    {
+        "Location": "WA",
+        "Company": "lyft",
+        "Title": "Software Engineer",
+        "Level": "T6"
+    },
+    {
+        "Location": "NY",
+        "Company": "macy's",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "GA",
+        "Company": "mailchimp",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "mapbox",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "VA",
+        "Company": "mastercard",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "MA",
+        "Company": "mathworks",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "MA",
+        "Company": "mathworks",
+        "Title": "Software Engineer",
+        "Level": "EDG"
+    },
+    {
+        "Location": "MA",
+        "Company": "mathworks",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "MA",
+        "Company": "mathworks",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "MA",
+        "Company": "mathworks",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MN",
+        "Company": "medtronic",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "59"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "59"
+    },
+    {
+        "Location": "GA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "59"
+    },
+    {
+        "Location": "MA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "59"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "59"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "60"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "60"
+    },
+    {
+        "Location": "GA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "60"
+    },
+    {
+        "Location": "VA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "60"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "60"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "61"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "61"
+    },
+    {
+        "Location": "MA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "61"
+    },
+    {
+        "Location": "VA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "61"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "61"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "62"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "62"
+    },
+    {
+        "Location": "MA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "62"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "62"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "63"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "63"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "63"
+    },
+    {
+        "Location": "GA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "63"
+    },
+    {
+        "Location": "MA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "63"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "63"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "64"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "64"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "64"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "65"
+    },
+    {
+        "Location": "CA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "65"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "65"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Data Scientist",
+        "Level": "66"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "66"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "67"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L59"
+    },
+    {
+        "Location": "GA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L60"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L60"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L61"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L62"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L63"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "L64"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "Principal SDE"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "SDE"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "SDE II"
+    },
+    {
+        "Location": "WA",
+        "Company": "microsoft",
+        "Title": "Software Engineer",
+        "Level": "Senior SDE"
+    },
+    {
+        "Location": "NY",
+        "Company": "mongodb",
+        "Title": "Software Engineer",
+        "Level": "SE2"
+    },
+    {
+        "Location": "NY",
+        "Company": "mongodb",
+        "Title": "Software Engineer",
+        "Level": "SE3"
+    },
+    {
+        "Location": "NY",
+        "Company": "mongodb",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "morgan stanley",
+        "Title": "Software Engineer",
+        "Level": "Analyst"
+    },
+    {
+        "Location": "NY",
+        "Company": "morgan stanley",
+        "Title": "Software Engineer",
+        "Level": "Associate"
+    },
+    {
+        "Location": "NY",
+        "Company": "morgan stanley",
+        "Title": "Software Engineer",
+        "Level": "Vice President"
+    },
+    {
+        "Location": "GA",
+        "Company": "ncr",
+        "Title": "Software Engineer",
+        "Level": "10"
+    },
+    {
+        "Location": "GA",
+        "Company": "ncr",
+        "Title": "Software Engineer",
+        "Level": "9"
+    },
+    {
+        "Location": "CA",
+        "Company": "netapp",
+        "Title": "Software Engineer",
+        "Level": "MTS II"
+    },
+    {
+        "Location": "CA",
+        "Company": "netapp",
+        "Title": "Software Engineer",
+        "Level": "MTS III"
+    },
+    {
+        "Location": "CA",
+        "Company": "netapp",
+        "Title": "Software Engineer",
+        "Level": "MTS IV"
+    },
+    {
+        "Location": "CO",
+        "Company": "netapp",
+        "Title": "Software Engineer",
+        "Level": "MTS IV"
+    },
+    {
+        "Location": "NC",
+        "Company": "netapp",
+        "Title": "Software Engineer",
+        "Level": "MTS IV"
+    },
+    {
+        "Location": "CA",
+        "Company": "netflix",
+        "Title": "Data Scientist",
+        "Level": "Only one level across Netflix"
+    },
+    {
+        "Location": "CA",
+        "Company": "netflix",
+        "Title": "Data Scientist",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "netflix",
+        "Title": "Data Scientist",
+        "Level": "Senior Data Scientist"
+    },
+    {
+        "Location": "CA",
+        "Company": "netflix",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "nextdoor",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "nextdoor",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "nextdoor",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "OR",
+        "Company": "nike",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "OR",
+        "Company": "nike",
+        "Title": "Data Scientist",
+        "Level": "Senior"
+    },
+    {
+        "Location": "WA",
+        "Company": "nordstrom",
+        "Title": "Software Engineer",
+        "Level": "E1"
+    },
+    {
+        "Location": "WA",
+        "Company": "nordstrom",
+        "Title": "Software Engineer",
+        "Level": "E2"
+    },
+    {
+        "Location": "CA",
+        "Company": "northrop grumman",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "northrop grumman",
+        "Title": "Software Engineer",
+        "Level": "T1"
+    },
+    {
+        "Location": "CA",
+        "Company": "northrop grumman",
+        "Title": "Software Engineer",
+        "Level": "T2"
+    },
+    {
+        "Location": "CA",
+        "Company": "northrop grumman",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "WI",
+        "Company": "northwestern mutual",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "WI",
+        "Company": "northwestern mutual",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "nuro",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "nuro",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "MTS2"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "MTS3"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "MTS4"
+    },
+    {
+        "Location": "WA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "MTS4"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "nutanix",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "TX",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "CA",
+        "Company": "nvidia",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "okta",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "okta",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "okta",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "opendoor",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "IL",
+        "Company": "optiver",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Consulting MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-1"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-1"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-2"
+    },
+    {
+        "Location": "MA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-2"
+    },
+    {
+        "Location": "TX",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-2"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-2"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-3"
+    },
+    {
+        "Location": "MA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-3"
+    },
+    {
+        "Location": "TX",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-3"
+    },
+    {
+        "Location": "VA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-3"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-3"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-4"
+    },
+    {
+        "Location": "CO",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-4"
+    },
+    {
+        "Location": "TX",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-4"
+    },
+    {
+        "Location": "VA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-4"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-4"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-5"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-5"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC-6"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Principal MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Principal MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "oracle",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "NY",
+        "Company": "oscar",
+        "Title": "Software Engineer",
+        "Level": "E1"
+    },
+    {
+        "Location": "NY",
+        "Company": "oscar",
+        "Title": "Software Engineer",
+        "Level": "E2"
+    },
+    {
+        "Location": "NY",
+        "Company": "palantir",
+        "Title": "Software Engineer",
+        "Level": "Forward Deployed Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "palantir",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "palo alto networks",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "palo alto networks",
+        "Title": "Software Engineer",
+        "Level": "Principal"
+    },
+    {
+        "Location": "CA",
+        "Company": "palo alto networks",
+        "Title": "Software Engineer",
+        "Level": "Principal Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "palo alto networks",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "palo alto networks",
+        "Title": "Software Engineer",
+        "Level": "Senior Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "pandora",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "Member of Technical Staff 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer I"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T22"
+    },
+    {
+        "Location": "AZ",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T23"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T23"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Data Scientist",
+        "Level": "T24"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T24"
+    },
+    {
+        "Location": "IL",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T24"
+    },
+    {
+        "Location": "TX",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T24"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T25"
+    },
+    {
+        "Location": "IL",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T25"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T26"
+    },
+    {
+        "Location": "CA",
+        "Company": "paypal",
+        "Title": "Software Engineer",
+        "Level": "T27"
+    },
+    {
+        "Location": "NY",
+        "Company": "peloton",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "pinterest",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "pinterest",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "pinterest",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "pinterest",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "pinterest",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "pinterest",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "UT",
+        "Company": "plaid",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "CA",
+        "Company": "plaid",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "plaid",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "UT",
+        "Company": "pluralsight",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "UT",
+        "Company": "pluralsight",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "pure storage",
+        "Title": "Software Engineer",
+        "Level": "MTS 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "pure storage",
+        "Title": "Software Engineer",
+        "Level": "MTS4"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "CO",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Senior Staff Eng"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Senior Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CO",
+        "Company": "qualcomm",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "UT",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "UT",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "qualtrics",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "quora",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "rally health",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "reddit",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "reddit",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "reddit",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "redfin",
+        "Title": "Software Engineer",
+        "Level": "SDE 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "riot games",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "riot games",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "CA",
+        "Company": "riot games",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "riot games",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "rivian",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "rivian",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "robinhood",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "robinhood",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "NY",
+        "Company": "robinhood",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "robinhood",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "robinhood",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "roblox",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "roblox",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "roblox",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "roblox",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "roblox",
+        "Title": "Software Engineer",
+        "Level": "TD1"
+    },
+    {
+        "Location": "CA",
+        "Company": "roku",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "roku",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "rubrik",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "rubrik",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "rubrik",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "AMTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Architect"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Associate MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Associate MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Associate Member of Technical Staff"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "LMTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "LMTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead MTS"
+    },
+    {
+        "Location": "IN",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead MTS"
+    },
+    {
+        "Location": "MA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead MTS"
+    },
+    {
+        "Location": "NY",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Lead SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "MTS"
+    },
+    {
+        "Location": "MA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "PMTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Principal MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Principal MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "SMTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "SMTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "IN",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "MA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "NY",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "TX",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "salesforce",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "samsara",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "Developer"
+    },
+    {
+        "Location": "CA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T1"
+    },
+    {
+        "Location": "CA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T2"
+    },
+    {
+        "Location": "WA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T2"
+    },
+    {
+        "Location": "CA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "WA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "CA",
+        "Company": "sap",
+        "Title": "Software Engineer",
+        "Level": "T4"
+    },
+    {
+        "Location": "CA",
+        "Company": "scale ai",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "servicenow",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "slack",
+        "Title": "Software Engineer",
+        "Level": "G03"
+    },
+    {
+        "Location": "CA",
+        "Company": "slack",
+        "Title": "Software Engineer",
+        "Level": "G04"
+    },
+    {
+        "Location": "CA",
+        "Company": "slack",
+        "Title": "Software Engineer",
+        "Level": "G05"
+    },
+    {
+        "Location": "CA",
+        "Company": "slack",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "slack",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "slalom",
+        "Title": "Software Engineer",
+        "Level": "Consultant"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "WA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "snap",
+        "Title": "Software Engineer",
+        "Level": "L7"
+    },
+    {
+        "Location": "CA",
+        "Company": "snowflake",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "sofi",
+        "Title": "Software Engineer",
+        "Level": "Baseline SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "sofi",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "spacex",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CO",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "WA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "Principal SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "splunk",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "spotify",
+        "Title": "Software Engineer",
+        "Level": "Engineer II"
+    },
+    {
+        "Location": "NY",
+        "Company": "spotify",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "spotify",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "IL",
+        "Company": "sprout social",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 4"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 5"
+    },
+    {
+        "Location": "NY",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 5"
+    },
+    {
+        "Location": "CA",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 6"
+    },
+    {
+        "Location": "NY",
+        "Company": "square",
+        "Title": "Software Engineer",
+        "Level": "Level 6"
+    },
+    {
+        "Location": "NY",
+        "Company": "squarespace",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "NY",
+        "Company": "squarespace",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "squarespace",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "squarespace",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer 2"
+    },
+    {
+        "Location": "NY",
+        "Company": "squarespace",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "IL",
+        "Company": "state farm",
+        "Title": "Software Engineer",
+        "Level": "RE2"
+    },
+    {
+        "Location": "TX",
+        "Company": "state farm",
+        "Title": "Software Engineer",
+        "Level": "RE3"
+    },
+    {
+        "Location": "CA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "WA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "NY",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "WA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "WA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "stripe",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "supermicro",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "symantec",
+        "Title": "Software Engineer",
+        "Level": "Principal Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "symantec",
+        "Title": "Software Engineer",
+        "Level": "Senior Principal Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "symantec",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "symantec",
+        "Title": "Software Engineer",
+        "Level": "Technical Director"
+    },
+    {
+        "Location": "WA",
+        "Company": "t-mobile",
+        "Title": "Software Engineer",
+        "Level": "Associate Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "t-mobile",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "t-mobile",
+        "Title": "Software Engineer",
+        "Level": "Principal Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "t-mobile",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "t-mobile",
+        "Title": "Software Engineer",
+        "Level": "T3"
+    },
+    {
+        "Location": "WA",
+        "Company": "tableau software",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "tableau software",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer (SWE)"
+    },
+    {
+        "Location": "WA",
+        "Company": "tableau software",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer (SWE)"
+    },
+    {
+        "Location": "WA",
+        "Company": "tableau software",
+        "Title": "Software Engineer",
+        "Level": "Staff SWE"
+    },
+    {
+        "Location": "MN",
+        "Company": "target",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MN",
+        "Company": "target",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "MN",
+        "Company": "target",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "TX",
+        "Company": "tata consultancy services",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "Associate Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "P1"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "Senior Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "tesla",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "GA",
+        "Company": "the home depot",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "GA",
+        "Company": "the home depot",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "the new york times company",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "the new york times company",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "thoughtworks",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "CA",
+        "Company": "thumbtack",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "thumbtack",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "thumbtack",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "tinder",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "tinder",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CO",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "twilio",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitch",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitch",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "CO",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "NY",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "WA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CO",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "MA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "NY",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "WA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer (SWE)"
+    },
+    {
+        "Location": "NY",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer (SWE)"
+    },
+    {
+        "Location": "CA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Staff SWE"
+    },
+    {
+        "Location": "WA",
+        "Company": "twitter",
+        "Title": "Software Engineer",
+        "Level": "Staff SWE"
+    },
+    {
+        "Location": "NY",
+        "Company": "two sigma",
+        "Title": "Software Engineer",
+        "Level": "3"
+    },
+    {
+        "Location": "NY",
+        "Company": "two sigma",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "NY",
+        "Company": "two sigma",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "NY",
+        "Company": "two sigma",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "NY",
+        "Company": "two sigma",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Data Scientist",
+        "Level": "3"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Data Scientist",
+        "Level": "4"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "4"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "4"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "5a"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "5a"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "5b"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "PA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "PA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Data Scientist",
+        "Level": "L5A"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5A"
+    },
+    {
+        "Location": "CO",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5A"
+    },
+    {
+        "Location": "NY",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5A"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5A"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5B"
+    },
+    {
+        "Location": "NY",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L5B"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "NY",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer I"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "NY",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "PA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "WA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "CA",
+        "Company": "uber",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "WA",
+        "Company": "uipath",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "usaa",
+        "Title": "Software Engineer",
+        "Level": "Lead Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "usaa",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "usaa",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer I"
+    },
+    {
+        "Location": "TX",
+        "Company": "usaa",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "TX",
+        "Company": "usaa",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer III"
+    },
+    {
+        "Location": "CA",
+        "Company": "veeva systems",
+        "Title": "Software Engineer",
+        "Level": "Associate Software Engineer"
+    },
+    {
+        "Location": "MA",
+        "Company": "verily life sciences",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "veritas technologies",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "verizon",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "verizon",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "viasat",
+        "Title": "Software Engineer",
+        "Level": "New Grad"
+    },
+    {
+        "Location": "NY",
+        "Company": "vimeo",
+        "Title": "Software Engineer",
+        "Level": "Senior"
+    },
+    {
+        "Location": "TX",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "TX",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Lead Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "TX",
+        "Company": "visa",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "MA",
+        "Company": "vistaprint",
+        "Title": "Software Engineer",
+        "Level": "PR3"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 3"
+    },
+    {
+        "Location": "GA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 3"
+    },
+    {
+        "Location": "MA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 3"
+    },
+    {
+        "Location": "WA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "MTS 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "GA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "MA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "TX",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "WA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior MTS"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Senior Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer 1"
+    },
+    {
+        "Location": "MA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer 1"
+    },
+    {
+        "Location": "WA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer 1"
+    },
+    {
+        "Location": "CA",
+        "Company": "vmware",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "E3"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "E4"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "E5"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Data Scientist",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Data Scientist",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Data Scientist",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Principal Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "AR",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 1"
+    },
+    {
+        "Location": "AR",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "VA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 2"
+    },
+    {
+        "Location": "AR",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer 3"
+    },
+    {
+        "Location": "CA",
+        "Company": "walmart",
+        "Title": "Software Engineer",
+        "Level": "Staff Software Engineer"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "1"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Data Scientist",
+        "Level": "L2"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "L2"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "Software Engineer II"
+    },
+    {
+        "Location": "MA",
+        "Company": "wayfair",
+        "Title": "Software Engineer",
+        "Level": "Staff Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "waymo",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "waymo",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "waymo",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "UT",
+        "Company": "weave",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "NY",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "NY",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L5"
+    },
+    {
+        "Location": "NY",
+        "Company": "wework",
+        "Title": "Software Engineer",
+        "Level": "L6"
+    },
+    {
+        "Location": "CA",
+        "Company": "wish",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "wish",
+        "Title": "Software Engineer",
+        "Level": "L4"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P1"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CO",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CO",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "SWE II"
+    },
+    {
+        "Location": "CA",
+        "Company": "workday",
+        "Title": "Software Engineer",
+        "Level": "Senior SWE"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "IC5"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "IC6"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "Principal Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "yahoo",
+        "Title": "Software Engineer",
+        "Level": "Senior Software Engineer"
+    },
+    {
+        "Location": "CA",
+        "Company": "yelp",
+        "Title": "Software Engineer",
+        "Level": "IC1"
+    },
+    {
+        "Location": "CA",
+        "Company": "yelp",
+        "Title": "Software Engineer",
+        "Level": "IC2"
+    },
+    {
+        "Location": "CA",
+        "Company": "yelp",
+        "Title": "Software Engineer",
+        "Level": "IC3"
+    },
+    {
+        "Location": "CA",
+        "Company": "yelp",
+        "Title": "Software Engineer",
+        "Level": "IC4"
+    },
+    {
+        "Location": "CA",
+        "Company": "yelp",
+        "Title": "Software Engineer",
+        "Level": "New Grad"
+    },
+    {
+        "Location": "NY",
+        "Company": "yext",
+        "Title": "Software Engineer",
+        "Level": "T2"
+    },
+    {
+        "Location": "CA",
+        "Company": "zendesk",
+        "Title": "Software Engineer",
+        "Level": "ZEN2"
+    },
+    {
+        "Location": "CA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P2"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Data Scientist",
+        "Level": "P3"
+    },
+    {
+        "Location": "CA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P3"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Data Scientist",
+        "Level": "P4"
+    },
+    {
+        "Location": "CA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P4"
+    },
+    {
+        "Location": "WA",
+        "Company": "zillow",
+        "Title": "Software Engineer",
+        "Level": "P5"
+    },
+    {
+        "Location": "CA",
+        "Company": "zoom",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    },
+    {
+        "Location": "CA",
+        "Company": "zoox",
+        "Title": "Software Engineer",
+        "Level": "L1"
+    },
+    {
+        "Location": "CA",
+        "Company": "zoox",
+        "Title": "Software Engineer",
+        "Level": "L3"
+    }
+]

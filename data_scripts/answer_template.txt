@@ -1,0 +1,5 @@
+According to our database, the salary information for an {level} {title} working at {company} in {location} is as follows:
+
+Median: {median}
+Q1: {q1}
+Q3: {q3}
