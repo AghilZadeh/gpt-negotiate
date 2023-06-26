@@ -1,2 +1,2 @@
 # negotiate-gpt
-Repo For Customized GPT model for Negotiate
+ReadME for `negotiate-gpt` file
